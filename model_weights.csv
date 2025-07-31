@@ -1,0 +1,16 @@
+﻿feature,weight
+cumulative_rainfall,-0.017276516
+avg_temp,0.024871232
+max_humidity,0.12288701
+min_humidity,-0.020569028
+avg_pressure,-0.2232288
+min_pressure,0.10283283
+max_pressure,0.12667723
+avg_humidity_alt,0.14293137
+min_temp,-0.0366719
+pressure_diff,0.255551
+pressure_deviation,0.053903066
+is_autumn,-0.19640832
+is_spring,-0.016668336
+is_summer,0.0936065
+is_winter,-0.088583425
